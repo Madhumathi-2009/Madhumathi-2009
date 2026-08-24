@@ -2,7 +2,7 @@
 
 Welcome to my profile!
 
-I'm **Madhumathi**, a student pursuing **Artificial Intelligence and Data Science**. I have a keen interest in learning about AI technologies, data analysis, and software development. I enjoy exploring new concepts, building projects, and continuously improving my technical skills.
+I'm **Madhumathi**, a student pursuing **Data Science and Articficial Intelligence** in *SDNB Vaishnav College*. I have a keen interest in learning about AI technologies, data analysis, and software development. I enjoy exploring new concepts, building projects, and continuously improving my technical skills.
 
 ## 💡 Interests
 
@@ -18,15 +18,13 @@ I'm **Madhumathi**, a student pursuing **Artificial Intelligence and Data Scienc
 
 * Python
 * C (Basic)
-* SQL
 * HTML & CSS
 * Git & GitHub
-* Microsoft Office
 
-## 🌱 Currently Learning
+## ⭐ Currently Learning
 
 * Machine Learning
-* Deep Learning
+* Python Language
 * Data Visualization
 * Cloud Technologies
 
@@ -35,10 +33,10 @@ I'm **Madhumathi**, a student pursuing **Artificial Intelligence and Data Scienc
 * Build innovative AI-based projects.
 * Strengthen my programming and analytical skills.
 * Contribute to open-source projects.
-* Continuously learn and grow in the field of AI and Data Science.
+* Continuously learn and grow in the field of Data Science & AI.
 
 ## 📫 Connect With Me
 
 Feel free to explore my repositories and connect with me for learning and collaboration.
 
-⭐ *"Learning today, building tomorrow."*
+✨ *"Learn today, build tomorrow."* ✨
