@@ -37,7 +37,7 @@ I'm **Madhumathi**, a student pursuing **Data Science and Articficial Intelligen
 
 ## 📫 Connect With Me
 
-[Linkedin](www.linkedin.com/in/madhumathi-c)
+[Linkedin](https://www.linkedin.com/in/madhumathi-c)
 ###### Feel free to explore my repositories and connect with me for learning and collaboration.
 
-✨ *"Learn today, build tomorrow."* ✨
+✨ **"Learn today, build tomorrow."** ✨
