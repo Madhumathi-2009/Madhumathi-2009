@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,20&height=3" width="100%"/>
+
 <h1 align="center">✨ I'm MADHUMATHI ✨</h1>
 
 <p align="center">
@@ -87,7 +88,9 @@
 </p>
 <p align="center">
 ✨ <i>Feel free to explore my repositories and connect with me for learning and collaboration.</i> ✨
-<br><br>
-♡ Thanks for visiting! ♡
+
+<p align="center">
+♡ . ݁₊ ⊹ . ݁˖ . ݁  ───────♡ Thanks for visiting ! ♡───────  . ݁₊ ⊹ . ݁˖ . ݁ ♡
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,20&height=3" width="100%"/>
