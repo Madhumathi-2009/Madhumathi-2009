@@ -1,8 +1,7 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=I'm%20Madhumathi&fontColor=4B2E83&fontSize=50&fontAlign=50&fontAlignY=50&height=120&desc=&descAlign=50&descAlignY=80&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=C8A2FF&height=160&section=header&text=I'm%20Madhumathi&fontSize=46&fontColor=4B2E83&animation=fadeIn" width="90%" />
 </p>
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=42&pause=1000&color=E07A5F&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+Student;SDNB+Vaishnav+College+for+Women" alt="Typing SVG" /></a>
 </p>
@@ -19,7 +18,10 @@
   <img src="https://img.shields.io/badge/-Kind%20%E2%80%A2%20Creative%20%E2%80%A2%20Curious-EEE6F8?style=flat-square" />
 </p>
 
----
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ### <b>🌷 About Me</b>
 > Aspiring Data Scientist & AI Enthusiast passionate about learning new things and building cozy tech.
