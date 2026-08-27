@@ -1,5 +1,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center">✨ I'm MADHUMATHI ✨</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=I'm%20Madhumathi&fontColor=4B2E83&fontSize=50&fontAlign=50&fontAlignY=50&height=120&desc=&descAlign=50&descAlignY=80&descSize=20" />
+</p>
+
+---
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=26&pause=1000&color=E07A5F&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+Student;SDNB+Vaishnav+College" alt="Typing SVG" /></a>
