@@ -1,4 +1,4 @@
-<h2 align="center">🌸 Hi, I'm Madhumathi 🌸</h2>
+<h1 align="center" style="font-size: 48px;">🌸 Hi, I'm Madhumathi 🌸</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=22&pause=1000&color=E07A5F&center=true&vCenter=true&width=600&lines=Data+Science+%26+AI+Student+%E2%9C%A8;SDNB+Vaishnav+College;Learn+today%2C+build+tomorrow+%F0%9F%92%AB" alt="Typing SVG" /></a>
