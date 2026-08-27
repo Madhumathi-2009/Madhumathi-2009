@@ -60,7 +60,6 @@
 ### 💌 Connect With Me
 
 <a href="https://www.linkedin.com/in/madhumathi-c"><img src="https://img.shields.io/badge/LinkedIn-FFDAB9?style=for-the-badge&logo=linkedin&logoColor=6B4F4F" /></a>
-<a href="https://github.com/Madhumathi-2009"><img src="https://img.shields.io/badge/GitHub-FFE4D6?style=for-the-badge&logo=github&logoColor=6B4F4F" /></a>
 
 ✨ *Feel free to explore my repositories and connect with me for learning and collaboration.* ✨
 
