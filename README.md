@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center">✨ I'm Madhumathi ✨</h1>
+<h1 align="center">✨ I'm MADHUMATHI ✨</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=26&pause=1000&color=E07A5F&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+Student+%E2%9C%A8;SDNB+Vaishnav+College;Learn+today%2C+build+tomorrow+%F0%9F%92%AB" alt="Typing SVG" /></a>
@@ -54,23 +54,18 @@
 </tr>
 </table>
 
-<table width="100%">
-<tr>
-<td width="100%" valign="top">
+<div align="center">
 
-<table width="100%">
-<tr><th colspan="2"><img src="https://img.shields.io/badge/🎯%20Goals-4B2E83?style=for-the-badge&color=4B2E83" /></th></tr>
-<tr><td width="70%"><b>Goal</b></td><td><b>Status</b></td></tr>
+<table width="70%">
+<tr><th colspan="2" align="center"><img src="https://img.shields.io/badge/🎯%20Goals-4B2E83?style=for-the-badge&color=4B2E83" /></th></tr>
+<tr><td><b>Goal</b></td><td><b>Status</b></td></tr>
 <tr><td>🚀 Build innovative AI-based projects</td><td><code>In Progress</code></td></tr>
 <tr><td>🤝 Contribute to open-source projects</td><td><code>Soon</code></td></tr>
 <tr><td>💪 Strengthen programming & analytical skills</td><td><code>Learning</code></td></tr>
 <tr><td>📚 Grow in Data Science & AI</td><td><code>Always</code></td></tr>
 </table>
 
-</td>
-</tr>
-</table>
-
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">🔥 My GitHub Streak</h1>
@@ -88,9 +83,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/madhumathi-c"><img src="https://img.shields.io/badge/LinkedIn-E0BBE4?style=for-the-badge&logo=linkedin&logoColor=6B4F4F" /></a>
-  <a href="madhu12lakshmi@gmail.com"><img src="https://img.shields.io/badge/Gmail-C9B1FF?style=for-the-badge&logo=gmail&logoColor=6B4F4F" /></a>
+  <a href="mailto:madhu12lakshmi@gmail.com"><img src="https://img.shields.io/badge/Gmail-C9B1FF?style=for-the-badge&logo=gmail&logoColor=6B4F4F" /></a>
 </p>
-
 <p align="center">
 ✨ <i>Feel free to explore my repositories and connect with me for learning and collaboration.</i> ✨
 <br><br>
