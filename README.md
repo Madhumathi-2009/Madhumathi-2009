@@ -79,7 +79,7 @@
 
 ---
 
-<h1 align="center">📫 Connect with me </h1>
+<h1 align="center">✉️ Connect with me </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/madhumathi-c"><img src="https://img.shields.io/badge/LinkedIn-E0BBE4?style=for-the-badge&logo=linkedin&logoColor=6B4F4F" /></a>
