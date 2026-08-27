@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,20&height=3" width="100%"/>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">✨ I'm MADHUMATHI ✨</h1>
 
 <p align="center">
@@ -18,7 +17,7 @@
   <img src="https://img.shields.io/badge/-Kind%20%E2%80%A2%20Creative%20%E2%80%A2%20Curious-EEE6F8?style=flat-square" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ### <b>🌷 About Me</b>
 > Aspiring Data Scientist & AI Enthusiast passionate about learning new things and building cozy tech.
@@ -78,7 +77,7 @@
 </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 <h1 align="center">💌 Connect with me 💌</h1>
 
@@ -93,4 +92,4 @@
 ♡ . ݁₊ ⊹ . ݁˖ . ݁  ───────♡ Thanks for visiting ! ♡───────  . ݁₊ ⊹ . ݁˖ . ݁ ♡
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,20&height=3" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
