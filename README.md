@@ -53,6 +53,14 @@
 - 🤝 Contribute to open-source projects
 - 📚 Continuously learn and grow in the field of Data Science & AI
 
+### 🔥 My GitHub Streak
+
+<p align="center">
+  <a href="https://github.com/Madhumathi-2009">
+    <img src="https://streak-stats.demolab.com?user=Madhumathi-2009&theme=peach&border=E07A5F&background=FFF8F0&stroke=E07A5F&ring=E07A5F&fire=E07A5F&currStreakNum=6B4F4F&currStreakLabel=6B4F4F&sideLabels=6B4F4F&dates=9C6B6B" alt="GitHub Streak" />
+  </a>
+</p>
+
 ---
 
 <div align="center">
@@ -62,10 +70,7 @@
 <a href="https://www.linkedin.com/in/madhumathi-c"><img src="https://img.shields.io/badge/LinkedIn-FFDAB9?style=for-the-badge&logo=linkedin&logoColor=6B4F4F" /></a>
 
 ✨ *Feel free to explore my repositories and connect with me for learning and collaboration.* ✨
-
-
 <br>
-
 ♡ Thanks for visiting! ♡
 
 </div>
