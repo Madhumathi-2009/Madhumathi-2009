@@ -2,7 +2,7 @@
 <h1 align="center">✨ I'm MADHUMATHI ✨</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=26&pause=1000&color=E07A5F&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+Student+%E2%9C%A8;SDNB+Vaishnav+College;Learn+today%2C+build+tomorrow+%F0%9F%92%AB" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=26&pause=1000&color=E07A5F&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+Student;SDNB+Vaishnav+College;Learn+today%2C+build+tomorrow" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
