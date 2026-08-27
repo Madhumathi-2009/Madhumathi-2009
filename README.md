@@ -99,3 +99,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=30&pause=1000&color=4B2E83&center=true&vCenter=true&width=650&lines=Learn+Today%2C+Build+Tomorrow" alt="Typing SVG" /></a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+![](https://komarev.com/ghpvc/?username=Madhumathi-2009&color=4B2E83&style=flat)
