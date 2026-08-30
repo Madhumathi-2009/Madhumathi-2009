@@ -64,7 +64,7 @@
 <td width="50%" valign="top">
 
 <details>
-<summary align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=E9D5FF&height=55&text=🎯%20GOALS&fontSize=20&fontColor=4B2E83" width="90%" /></summary>
+<summary align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=4B2E83&height=55&text=🎯%20GOALS&fontSize=20&fontColor=FFFFFF" width="90%" /></summary>
 <br>
 
 - 🚀 Build innovative AI-based projects — `In Progress`
@@ -79,7 +79,7 @@
 <td width="50%" valign="top" align="center">
 
 <details>
-<summary align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=E9D5FF&height=55&text=🔥%20MY%20GITHUB%20STREAK&fontSize=18&fontColor=4B2E83" width="90%" /></summary>
+<summary align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=4B2E83&height=55&text=🔥%20MY%20GITHUB%20STREAK&fontSize=18&fontColor=FFFFFF" width="90%" /></summary>
 <br>
 
 <a href="https://github.com/Madhumathi-2009">
