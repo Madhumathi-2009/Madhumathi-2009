@@ -61,19 +61,16 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
 <details>
 <summary align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=E9D5FF&height=55&text=🎯%20GOALS&fontSize=20&fontColor=4B2E83" width="90%" /></summary>
 <br>
 
-<table>
-<tr><th>Goal</th><th>Status</th></tr>
-<tr><td>🚀 Build innovative AI-based projects</td><td><code>In Progress</code></td></tr>
-<tr><td>🤝 Contribute to open-source projects</td><td><code>Soon</code></td></tr>
-<tr><td>💪 Strengthen programming & analytical skills</td><td><code>Learning</code></td></tr>
-<tr><td>📚 Grow in Data Science & AI</td><td><code>Always</code></td></tr>
-</table>
+- 🚀 Build innovative AI-based projects — `In Progress`
+- 🤝 Contribute to open-source projects — `Soon`
+- 💪 Strengthen programming & analytical skills — `Learning`
+- 📚 Grow in Data Science & AI — `Always`
 
 <br>
 </details>
@@ -115,9 +112,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=30&pause=1000&color=4B2E83&center=true&vCenter=true&width=650&lines=Learn+Today%2C+Build+Tomorrow" alt="Typing SVG" /></a>
 </p>
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 ![](https://komarev.com/ghpvc/?username=Madhumathi-2009&color=4B2E83&style=flat)
