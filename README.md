@@ -57,31 +57,44 @@
 </td>
 </tr>
 </table>
-
 <div align="center">
 
-<table width="70%">
-<tr><th colspan="2" align="center"><img src="https://img.shields.io/badge/🎯%20Goals-4B2E83?style=for-the-badge&color=4B2E83" /></th></tr>
-<tr><td><b>Goal</b></td><td><b>Status</b></td></tr>
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+
+<details>
+<summary align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=E9D5FF&height=55&text=🎯%20GOALS&fontSize=20&fontColor=4B2E83" width="90%" /></summary>
+<br>
+
+<table>
+<tr><th>Goal</th><th>Status</th></tr>
 <tr><td>🚀 Build innovative AI-based projects</td><td><code>In Progress</code></td></tr>
 <tr><td>🤝 Contribute to open-source projects</td><td><code>Soon</code></td></tr>
 <tr><td>💪 Strengthen programming & analytical skills</td><td><code>Learning</code></td></tr>
 <tr><td>📚 Grow in Data Science & AI</td><td><code>Always</code></td></tr>
 </table>
 
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+</details>
 
-<h1 align="center">🔥 My GitHub Streak</h1>
+</td>
+<td width="50%" valign="top" align="center">
 
+<details>
+<summary align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=E9D5FF&height=55&text=🔥%20MY%20GITHUB%20STREAK&fontSize=18&fontColor=4B2E83" width="90%" /></summary>
+<br>
 
-<p align="center">
 <a href="https://github.com/Madhumathi-2009">
-  <img src="https://streak-stats.demolab.com?user=Madhumathi-2009&border=D8B4FE&background=EEE6F8&stroke=957DAD&ring=D8B4FE&fire=957DAD&currStreakNum=4B2E83&currStreakLabel=4B2E83&sideLabels=4B2E83&sideNums=4B2E83&dates=7A5C8E" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Madhumathi-2009&border=D8B4FE&background=EEE6F8&stroke=957DAD&ring=D8B4FE&fire=957DAD&currStreakNum=4B2E83&currStreakLabel=4B2E83&sideLabels=4B2E83&sideNums=4B2E83&dates=7A5C8E" alt="GitHub Streak" width="100%" />
 </a>
-</p>
 
----
+<br>
+</details>
+
+</td>
+</tr>
+</table>
 
 <h1 align="center">✉️ Connect with me </h1>
 
