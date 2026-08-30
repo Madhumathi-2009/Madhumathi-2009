@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-  <i>Student pursuing B.Sc Data Science and Artificial Intelligence in SDNB Vaishnav College</i><br>
-  I have a keen interest in learning about AI technologies, data analysis, and software development.<br>
-  I enjoy exploring new concepts, building projects, and continuously improving my technical skills.
+  <i>Aspiring Data Scientist & AI Enthusiast passionate about learning new things and building cozy tech.
 </p>
 
 <p align="center">
@@ -23,9 +21,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-### <b>🌷 About Me</b>
-> Aspiring Data Scientist & AI Enthusiast passionate about learning new things and building cozy tech.
-
+### 🌷 About Me
+> Student pursuing B.Sc Data Science and Artificial Intelligence in SDNB Vaishnav College</i><br>
+  I have a keen interest in learning about AI technologies, data analysis, and software development.<br>
+  I enjoy exploring new concepts, building projects, and continuously improving my technical skills.
 ---
 
 <table width="100%">
