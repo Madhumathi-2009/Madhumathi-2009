@@ -96,9 +96,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/madhumathi-c"><img src="https://img.shields.io/badge/LinkedIn-BDEBFF?style=for-the-badge&logo=linkedin&logoColor=2B6F8F" /></a>
   <a href="mailto:madhu12lakshmi@gmail.com"><img src="https://img.shields.io/badge/Gmail-AEE2F8?style=for-the-badge&logo=gmail&logoColor=2B6F8F" /></a>
+  <a href="https://www.instagram.com/c._.madhumathi"><img src="https://img.shields.io/badge/Instagram-BDEBFF?style=for-the-badge&logo=instagram&logoColor=2B6F8F" /></a>
 </p>
 <p align="center">
 ✨ <i>Feel free to explore my repositories and connect with me for learning and collaboration.</i> ✨
+</p>
 
 <p align="center">
 ♡ . ݁₊ ⊹ . ݁˖ . ݁  ───────♡ Thanks for visiting ! ♡───────  . ݁₊ ⊹ . ݁˖ . ݁ ♡
