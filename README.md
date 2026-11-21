@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/-Kind%20%E2%80%A2%20Creative%20%E2%80%A2%20Curious-DDF5FF?style=flat-square" />
 </p>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ❄️ About Me
